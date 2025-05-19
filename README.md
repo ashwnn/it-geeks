@@ -89,8 +89,6 @@ All endpoints run the Wazuh Agent (plus XDR on certain machines) to feed logs an
    * **Skills**: Beginner; follows guides
    * **Usage**: Office/email; often triggers benign alerts
 
---
-
 ## Configuration
 
 1. **Wazuh Agent**
